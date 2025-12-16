@@ -1,1 +1,0 @@
-rootProject.name = "provenance-data-pipeline"
